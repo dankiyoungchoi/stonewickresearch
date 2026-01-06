@@ -7,5 +7,7 @@ Independent Optics & Photonics research
 - FDTD simulation
 - Nanophotonics
 
-## Contact
-[Email](mailto:kychoi@gmail.com)
+## People
+- Kiyoung Choi [https://orcid.org/0009-0006-2182-8378](https://orcid.org/0009-0006-2182-8378)
+  [kychoi@gmail.com](https://orcid.org/0009-0006-2182-8378)
+
